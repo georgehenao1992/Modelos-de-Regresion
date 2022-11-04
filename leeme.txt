@@ -5,5 +5,5 @@ establecido
 
 2) el archivo lasso y ridge tienen sus respectivos modelos
 
-3) el archivo que contiene los tres modelos contiene la busqueda del porque por ultimo decido quedarme con linearregresion 
+3) el archivo que contiene los tres modelos contiene la busqueda del porque por ultimo decido quedarme con Ridge y Linear Regresion 
 
