@@ -1,0 +1,9 @@
+1) el notebook regresion lineal comprende el preprocesamiento de datos y el procesamiento de datos 
+con su respectivo analisis y para su posterior reelizacion de standarizacion a modo de prueba 
+por ultimo este archivo comprende el modelo de regrersion lineal sin standarizar que es por ultimo el archivo que ejecuta el modelo 
+establecido
+
+2) el archivo lasso y ridge tienen sus respectivos modelos
+
+3) el archivo que contiene los tres modelos contiene la busqueda del porque por ultimo decido quedarme con linearregresion 
+
